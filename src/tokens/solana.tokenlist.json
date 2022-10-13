@@ -22044,6 +22044,19 @@
 },
 {
   "chainId": 101,
+  "address": "6JY6XYUCx2NqFi81AcrACQ2V4zTkRR1QYAy37arBXqru",
+  "symbol": "GC",
+  "name": "GC Coin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/carratugiulio/crypto/master/SaveTheWorld.png",
+  "tags": [
+    "Meme", "Social"
+  ],
+  "extensions": {
+  }
+},
+{
+  "chainId": 101,
   "address": "FiPpi1nhxws1cPkyy76AzmHkFMyB3NysdU8RruTXuzNf",
   "symbol": "KAJU",
   "name": "KAJU Coin",
